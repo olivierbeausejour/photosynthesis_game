@@ -91,34 +91,3 @@ https://www.sqlite.org/2018/sqlite-dll-win64-x64-3250200.zip
 ```
 
 Prenez les deux DLL et placez-les dans leurs dossiers respectifs (voir ```Assets/Libraries/SqLite/Plugins```).
-
-## Contribuer au projet
-
-Veuillez lire [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails sur notre code de conduite.
-
-## Auteurs
-
-```
-À faire : Ajoutez vous noms ici ainsi que le nom de tout artiste ayant participé au projet 
-(avec lien vers leur portfolio s'il existe).
-
-Inscrivez aussi, en détail, ce sur quoi chaque membre de l'équipe a principalement travaillé.
-```
-
-* **Benjamin Lemelin** - *Programmeur*
-  * Extensions sur le moteur Unity pour la recherche d'objets et de composants. Générateur de constantes. Gestionnaire de
-    chargement des scènes.
-* **Prénom Nom** - *Programmeur*
-* **Prénom Nom** - *Programmeur*
-* **Prénom Nom** - *Programmeur*
-* **Prénom Nom** - *Programmeur*
-* **Prénom Nom** - *Concepteur sonore*
-* **Prénom Nom** - *Artiste 2D et Artiste UI*
-
-## Remierciements
-
-```
-À faire : Remercier toute personne ayant contribué au projet, mais qui n'est pas un auteur.
-```
-
-* Tyler Coles - Pour [son guide](https://ornithoptergames.com/how-to-set-up-sqlite-for-unity/) d'intégration de SQLite dans Unity, dont l'implémentation dans ce projet fut fortement inspirée.
