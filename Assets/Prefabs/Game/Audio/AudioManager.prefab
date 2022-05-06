@@ -1,0 +1,442 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &584390580098956148
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 584390580098956150}
+  - component: {fileID: 3181785219633681514}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: AudioManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &584390580098956150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584390580098956148}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3181785219633681514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584390580098956148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f13bda6973f8384fa750ce0e4d51636, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Level1-Theme
+    clip: {fileID: 8300000, guid: 5383fd4112b34434bac2522a849883a0, type: 3}
+    spatialBlend: 0
+    volume: 0.2
+    maxDistance: 0
+    minDistance: 0
+    playOnAwake: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: PauseUnpauseSound
+    clip: {fileID: 8300000, guid: 4a031e6b5d9bbd84ba1190c3504bf227, type: 3}
+    spatialBlend: 1
+    volume: 0.246
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: HoverItemSound
+    clip: {fileID: 8300000, guid: a30f86342894a854ea6f270299ce473e, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: SelectItemSound
+    clip: {fileID: 8300000, guid: 99a5da34e54ce4f4f91ac011e2f7468b, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: SelectSaveSound
+    clip: {fileID: 8300000, guid: 77fbd1b703ec72c4d8e9845cbb26b902, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerDeathSound
+    clip: {fileID: 8300000, guid: 20d83a4bb332a624db9c7116e16c4347, type: 3}
+    spatialBlend: 1
+    volume: 0.7
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerRunSound
+    clip: {fileID: 8300000, guid: 9165496b4d5112c4fa0864ac5aa24aab, type: 3}
+    spatialBlend: 1
+    volume: 0.25
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerDashSound
+    clip: {fileID: 8300000, guid: 7f81b175eef092b44910b2751da509e2, type: 3}
+    spatialBlend: 1
+    volume: 0.25
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerJumpSound
+    clip: {fileID: 8300000, guid: ab86db30cb6548648be28ca8e21eca78, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerLandSound
+    clip: {fileID: 8300000, guid: 2e394cdb71e594645b9e67d88b02b4cd, type: 3}
+    spatialBlend: 1
+    volume: 0.25
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: GrapplingHookFiringDeploymentSound
+    clip: {fileID: 8300000, guid: 41ad4d6b1c4e5b64491a26d0d79c541e, type: 3}
+    spatialBlend: 1
+    volume: 0.2
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: GrapplingHookImpactSound
+    clip: {fileID: 8300000, guid: f8ce2a8e394e4964f9b9f44fc331a4fa, type: 3}
+    spatialBlend: 1
+    volume: 0.35
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: GrapplingHookRetractSound
+    clip: {fileID: 8300000, guid: fc23bee132fea08488d7f091d30b1c88, type: 3}
+    spatialBlend: 1
+    volume: 0.25
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: GrapplingHookSwaySound
+    clip: {fileID: 8300000, guid: 9fd90de9f534e944296b894b365beb04, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level2BaseEnemyIdleSound
+    clip: {fileID: 8300000, guid: aa0c71d9daa3b7142a49f136d6b42eba, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level2BaseEnemyDeathSound
+    clip: {fileID: 8300000, guid: f4c9bdf65c409874e82c271d50a75fc0, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level2JumpingEnemyDeathSound
+    clip: {fileID: 8300000, guid: f2511171868e7a54a8fd06c4368831e3, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level2JumpingEnemyIdleSound
+    clip: {fileID: 8300000, guid: ff5269604a7ca5945a0d68120e2fad03, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level2JumpingEnemyJumpSound
+    clip: {fileID: 8300000, guid: c5e6fa21db2d262478312e7828faba41, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level2ShootingEnemyDeathSound
+    clip: {fileID: 8300000, guid: b215c4ff6c775f545b81e4afa3d9ed6e, type: 3}
+    spatialBlend: 1
+    volume: 0.547
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level2ShootingEnemyIdleSound
+    clip: {fileID: 8300000, guid: 6e3aed93edf0df940aafbf7207522660, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level2ShootingEnemyShootSound
+    clip: {fileID: 8300000, guid: 3dde52f4b6b44244fac041abb350506e, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: CheckpointSound
+    clip: {fileID: 8300000, guid: cbf02ca4d6953b54e9e1f47b51f7f2d5, type: 3}
+    spatialBlend: 1
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: DestroyableWallsSound
+    clip: {fileID: 8300000, guid: 71ca869fda387d946a0886a88db36c31, type: 3}
+    spatialBlend: 1
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: FallingHazardSound
+    clip: {fileID: 8300000, guid: b0f446d966f0d1042b57f52dc907db5b, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: FallingPlatformSound
+    clip: {fileID: 8300000, guid: 4f9f9c3f4ffd4d440bfde1f63c0788f4, type: 3}
+    spatialBlend: 1
+    volume: 0.526
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: FilmRollPickUpSound
+    clip: {fileID: 8300000, guid: 00c1aa7fb8989344fa969c5fc9850d66, type: 3}
+    spatialBlend: 1
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: KeySound
+    clip: {fileID: 8300000, guid: fee215863018e4f47884707b6853536e, type: 3}
+    spatialBlend: 0
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: MovingPlatformSound
+    clip: {fileID: 8300000, guid: 7e4480961f3e3684fb4aad9e51594d05, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: SwitchSound
+    clip: {fileID: 8300000, guid: eef2b6d4c0371d14296e8a4084fa374b, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: DoorSound
+    clip: {fileID: 8300000, guid: 9fd90de9f534e944296b894b365beb04, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: GrapplingHookSwaySound
+    clip: {fileID: 8300000, guid: 9fd90de9f534e944296b894b365beb04, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: GrapplingHookSwaySound
+    clip: {fileID: 8300000, guid: 9fd90de9f534e944296b894b365beb04, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: MainMenu-Theme
+    clip: {fileID: 8300000, guid: f4231a62d7b41d24095e819e4cb39414, type: 3}
+    spatialBlend: 1
+    volume: 0.7
+    maxDistance: 20
+    minDistance: 0
+    playOnAwake: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Level2-Theme
+    clip: {fileID: 8300000, guid: 35a05df44fc137a4ca51db9740c2e5db, type: 3}
+    spatialBlend: 1
+    volume: 0.7
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Level3-Theme
+    clip: {fileID: 8300000, guid: a4fa024be3cab484eb1d90f69e31dca4, type: 3}
+    spatialBlend: 1
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Level4-Theme
+    clip: {fileID: 8300000, guid: 0eaa76be599434340832e398d24707ad, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Level5-Theme
+    clip: {fileID: 8300000, guid: e8f745d1db2fdc9478f44b6a59769d97, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: BossJumpSound
+    clip: {fileID: 8300000, guid: ecf7103bccc93b0488dba2bc611f48cb, type: 3}
+    spatialBlend: 1
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: BossHurtSound
+    clip: {fileID: 8300000, guid: 6db02decfa9b3504ba4115cdb4dba568, type: 3}
+    spatialBlend: 1
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: BossDeathSound
+    clip: {fileID: 8300000, guid: d7a9bd4690a6ab14a9384c4b41395b83, type: 3}
+    spatialBlend: 1
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: BossReloadSound
+    clip: {fileID: 8300000, guid: 96dd96fc204c9b942a4b70a0bd3d50dc, type: 3}
+    spatialBlend: 1
+    volume: 1
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Level1BaseEnemyIdleSound
+    clip: {fileID: 8300000, guid: fc01223c1d1746846ae152ddf2fc64e5, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Level1BaseEnemyDeathSound
+    clip: {fileID: 8300000, guid: 07a42f1719b7cb9479ad97a495b73bff, type: 3}
+    spatialBlend: 1
+    volume: 0.3
+    maxDistance: 4
+    minDistance: 0
+    playOnAwake: 1
+    loop: 1
+    source: {fileID: 0}

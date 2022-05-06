@@ -1,0 +1,1903 @@
+fileFormatVersion: 2
+guid: 8897001edc440034cb322d64cfeb2621
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1366825242157913758
+    second: tete2_spritesheet_0
+  - first:
+      213: 6204597941671004590
+    second: tete2_spritesheet_1
+  - first:
+      213: 1484510294860318227
+    second: tete2_spritesheet_2
+  - first:
+      213: 7906421385575262847
+    second: tete2_spritesheet_3
+  - first:
+      213: -8089451895120320978
+    second: tete2_spritesheet_4
+  - first:
+      213: -637034916180355801
+    second: tete2_spritesheet_5
+  - first:
+      213: 3709115938542570938
+    second: tete2_spritesheet_6
+  - first:
+      213: -4691395949324187386
+    second: tete2_spritesheet_7
+  - first:
+      213: 3538368585033130617
+    second: tete2_spritesheet_8
+  - first:
+      213: 1978672621150455566
+    second: tete2_spritesheet_9
+  - first:
+      213: -1385475743592821783
+    second: tete2_spritesheet_10
+  - first:
+      213: 1472293756796915592
+    second: tete2_spritesheet_11
+  - first:
+      213: 908751531886326144
+    second: tete2_spritesheet_12
+  - first:
+      213: -8938572670907184462
+    second: tete2_spritesheet_13
+  - first:
+      213: 3370993657066757653
+    second: tete2_spritesheet_14
+  - first:
+      213: 3672658768995992548
+    second: tete2_spritesheet_15
+  - first:
+      213: -6717060216355204395
+    second: tete2_spritesheet_16
+  - first:
+      213: -6961670644418680909
+    second: tete2_spritesheet_17
+  - first:
+      213: -5005728761265857666
+    second: tete2_spritesheet_18
+  - first:
+      213: 6758357097502453078
+    second: tete2_spritesheet_19
+  - first:
+      213: 8266587538408291110
+    second: tete2_spritesheet_20
+  - first:
+      213: 4908031969234061956
+    second: tete2_spritesheet_21
+  - first:
+      213: -883330728345837510
+    second: tete2_spritesheet_22
+  - first:
+      213: -1585346771591014834
+    second: tete2_spritesheet_23
+  - first:
+      213: 8206087785784509815
+    second: tete2_spritesheet_24
+  - first:
+      213: 1585408533659336048
+    second: tete2_spritesheet_25
+  - first:
+      213: 941925574928925582
+    second: tete2_spritesheet_26
+  - first:
+      213: 7937345437002616706
+    second: tete2_spritesheet_27
+  - first:
+      213: 3217166629083408833
+    second: tete2_spritesheet_28
+  - first:
+      213: 973288995590112426
+    second: tete2_spritesheet_29
+  - first:
+      213: 8590941745346067094
+    second: tete2_spritesheet_30
+  - first:
+      213: -979649867936210111
+    second: tete2_spritesheet_31
+  - first:
+      213: 8344337657293309664
+    second: tete2_spritesheet_32
+  - first:
+      213: -3215991931428134148
+    second: tete2_spritesheet_33
+  - first:
+      213: -7911914814599645286
+    second: tete2_spritesheet_34
+  - first:
+      213: -3790350623041574596
+    second: tete2_spritesheet_35
+  - first:
+      213: -898628283727172710
+    second: tete2_spritesheet_36
+  - first:
+      213: -3134276990288943800
+    second: tete2_spritesheet_37
+  - first:
+      213: -8185564853195998766
+    second: tete2_spritesheet_38
+  - first:
+      213: 4529306826196423406
+    second: tete2_spritesheet_39
+  - first:
+      213: -5432135679199829084
+    second: tete2_spritesheet_40
+  - first:
+      213: -6823404953310470542
+    second: tete2_spritesheet_41
+  - first:
+      213: -8707063107535342620
+    second: tete2_spritesheet_42
+  - first:
+      213: -2228715997609213813
+    second: tete2_spritesheet_43
+  - first:
+      213: -2376029211922043986
+    second: tete2_spritesheet_44
+  - first:
+      213: 4085524170018791000
+    second: tete2_spritesheet_45
+  - first:
+      213: -2186473558422337268
+    second: tete2_spritesheet_46
+  - first:
+      213: -5246875083279927512
+    second: tete2_spritesheet_47
+  - first:
+      213: 3258270199562022017
+    second: tete2_spritesheet_48
+  - first:
+      213: -7880151632349352275
+    second: tete2_spritesheet_49
+  - first:
+      213: -1159516068597219099
+    second: tete2_spritesheet_50
+  - first:
+      213: -3238462961507312643
+    second: tete2_spritesheet_51
+  - first:
+      213: 2636948157376512246
+    second: tete2_spritesheet_52
+  - first:
+      213: -272775408736663842
+    second: tete2_spritesheet_53
+  - first:
+      213: 1979867689697917513
+    second: tete2_spritesheet_54
+  - first:
+      213: -1593628506493535337
+    second: tete2_spritesheet_55
+  - first:
+      213: -5828937683063321638
+    second: tete2_spritesheet_56
+  - first:
+      213: -4167739118186511728
+    second: tete2_spritesheet_57
+  - first:
+      213: -8886528159965580623
+    second: tete2_spritesheet_58
+  - first:
+      213: -4639134484359871681
+    second: tete2_spritesheet_59
+  - first:
+      213: -6186451939840433654
+    second: tete2_spritesheet_60
+  - first:
+      213: -3778713661247551666
+    second: tete2_spritesheet_61
+  - first:
+      213: 6853225733480798798
+    second: tete2_spritesheet_62
+  - first:
+      213: -1109065490562518471
+    second: tete2_spritesheet_63
+  - first:
+      213: -4629006755716904131
+    second: tete2_spritesheet_64
+  - first:
+      213: -8267038259028593806
+    second: tete2_spritesheet_65
+  - first:
+      213: 7309136024510093033
+    second: tete2_spritesheet_66
+  - first:
+      213: 36579326122466204
+    second: tete2_spritesheet_67
+  - first:
+      213: 1250607499319068420
+    second: tete2_spritesheet_68
+  - first:
+      213: -8027331207750421418
+    second: tete2_spritesheet_69
+  - first:
+      213: -7762624110266760765
+    second: tete2_spritesheet_70
+  - first:
+      213: 1705901306995653419
+    second: tete2_spritesheet_71
+  - first:
+      213: 1372263297776530658
+    second: tete2_spritesheet_72
+  - first:
+      213: 1993375001509655224
+    second: tete2_spritesheet_73
+  - first:
+      213: -4153604209997344539
+    second: tete2_spritesheet_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tete2_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 888
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8770c5d2bc32922468169159b540eb82
+      internalID: -1366825242157913758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 888
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba2d9436aaa89641be330efbcc00a15
+      internalID: 6204597941671004590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 888
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741025f9367e7d7458850c8032a800c1
+      internalID: 1484510294860318227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 888
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46be7c7eb1572043b017b93a94f5257
+      internalID: 7906421385575262847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 887
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9cf6ca408c3644c95afe450232e763
+      internalID: -8089451895120320978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 792
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab64cb83153f2b4d9e883ff802eb5f8
+      internalID: -637034916180355801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 793
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2915900d09234381591b5e8517042
+      internalID: 3709115938542570938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 792
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1177516a6968d8a4a9c8a2b107498452
+      internalID: -4691395949324187386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 792
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650ca60f987aa614fb6d4ae07fdec76f
+      internalID: 3538368585033130617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 792
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5f27a5a47aaa84882a0f1365b3a6ce
+      internalID: 1978672621150455566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 792
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61c7128342571947b31219144d753cb
+      internalID: -1385475743592821783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 792
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adccb8ac402437a4897bef6f9c1790fd
+      internalID: 1472293756796915592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 792
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad9e13118ef9d42a929256849379ee
+      internalID: 908751531886326144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 792
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f2154e7b8c5a48bc4231a82014a5a
+      internalID: -8938572670907184462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 792
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3801a044214734190a743197d6bcc0
+      internalID: 3370993657066757653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 696
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71742c25ec1cc40bb11b9eb27e8f3f
+      internalID: 3672658768995992548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 696
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1787d9f2609af640b15a91ebb6c1a14
+      internalID: -6717060216355204395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 694
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d845515a7723984b87828424508a616
+      internalID: -6961670644418680909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 694
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47166160b6e1519439d0b04136ac6f76
+      internalID: -5005728761265857666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 694
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efeacce6903bf64c80b6b1a46719a7c
+      internalID: 6758357097502453078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 695
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685af03d7c36d624180a40843594b4f3
+      internalID: 8266587538408291110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 696
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab761c8e793194cbf7a7b9df9a217b
+      internalID: 4908031969234061956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 695
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b07a4804613974b887e64a6974edad
+      internalID: -883330728345837510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 696
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b131e5c63347be348a435b15ea4f0e01
+      internalID: -1585346771591014834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 696
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ddb7bdbbdf2449a9b37e6ee0cda9b
+      internalID: 8206087785784509815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 600
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460bb67c26adb94687d609c69a8f145
+      internalID: 1585408533659336048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 601
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4735f1c3fb4e1b54fb2171a8fbef0c44
+      internalID: 941925574928925582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 600
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f5e927442bf14b8447e2a8db565be
+      internalID: 7937345437002616706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 600
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb017d93b9680ab43bb0a68c7186a7f7
+      internalID: 3217166629083408833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 600
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924a356b155fda45818a51858a0133e
+      internalID: 973288995590112426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 600
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a5113823b66094d8a05d0cf2b392ba
+      internalID: 8590941745346067094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 600
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d4dcbd2cff319468431b98698e84f7
+      internalID: -979649867936210111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 600
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fea191e00472046b69cbfb78ec20b4
+      internalID: 8344337657293309664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 600
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96c4f19eeb138408b713ab86b8b14e
+      internalID: -3215991931428134148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 600
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e360174f86c992946b034bd97d877811
+      internalID: -7911914814599645286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 504
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d8df55b4611fe44b60eac40d75be6a
+      internalID: -3790350623041574596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 504
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c9a9e3d26286a44977fe3ffe94f76e
+      internalID: -898628283727172710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 502
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bcc468c5433c44bba165648140b416
+      internalID: -3134276990288943800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 502
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf8dfdc0c58da7479a113201e9ee15c
+      internalID: -8185564853195998766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 502
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9276848189034398efa8f69447299
+      internalID: 4529306826196423406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 503
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81025185cf46f2540b158feb1dde641b
+      internalID: -5432135679199829084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 504
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c546abf58edc9144ae270617d6cb183
+      internalID: -6823404953310470542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 503
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe7615bf0e9bef42a43334974f53fcb
+      internalID: -8707063107535342620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 504
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800a54305357d3a4ea7c18061942a8e8
+      internalID: -2228715997609213813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 504
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c373c08236c86aa459ca06ea180cbef8
+      internalID: -2376029211922043986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 414
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f724b5b959b72f49955327620f90e39
+      internalID: 4085524170018791000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 403
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff7a218f6e421b4b9ab379640b34dca
+      internalID: -2186473558422337268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 403
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd5235a76d2d3145ae34f2be7e6d9c8
+      internalID: -5246875083279927512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 403
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2299d8501c04041b35cd0ed56b37dc
+      internalID: 3258270199562022017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 403
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338829c6018ffb4c864020094427abe
+      internalID: -7880151632349352275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 403
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510aa8e4945e6314ebfa039ba738379e
+      internalID: -1159516068597219099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 403
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7800af02296d128488e5b18eaced1c73
+      internalID: -3238462961507312643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 404
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0dd918254867a458146785b7cff023
+      internalID: 2636948157376512246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 404
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d370a5929ef0574cab2437b4822f64c
+      internalID: -272775408736663842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 404
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b479eae490dfc540ad68383058e8ed2
+      internalID: 1979867689697917513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 404
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808274596aab4de4ca07d07d30bfcc56
+      internalID: -1593628506493535337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 404
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6eb9f0b74d3c4d9cc71561d645f4b
+      internalID: -5828937683063321638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 404
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0295d845440ac5443a6962363e10ba60
+      internalID: -4167739118186511728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 401
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a2a625444e72b4dace54235200af1a
+      internalID: -8886528159965580623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 401
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874bbb5273d60f440b4748a883096a92
+      internalID: -4639134484359871681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 312
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ddfc62a22487e458765f45df765e1a
+      internalID: -6186451939840433654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 330
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc35844a99e1f547916d4b941f539c5
+      internalID: -3778713661247551666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 331
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fad1b04bdf4cc419918d917188d32c
+      internalID: 6853225733480798798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 329
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8919523ff0ae67246851ae6c4bb75505
+      internalID: -1109065490562518471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 329
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd89f3efba209a4fa6c5cac12b76903
+      internalID: -4629006755716904131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 328
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b734a66ea1ea6324aafb498447992e23
+      internalID: -8267038259028593806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 327
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ec6a59429a16469544cc584bb9ee8
+      internalID: 7309136024510093033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 327
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6171e86c95da09743a3c8ba3481ce69a
+      internalID: 36579326122466204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 329
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2591707d6f7e184b896e4c61639153d
+      internalID: 1250607499319068420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 348
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2bcfeccbb6b2e4aa24332ecb1d45cf
+      internalID: -8027331207750421418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 348
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cf2043e3773804da64b9bc978f79ea
+      internalID: -7762624110266760765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 348
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883d124866b4e44a99bcc862e2f0f13
+      internalID: 1705901306995653419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 348
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36610c123416a854384351806cf80c75
+      internalID: 1372263297776530658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 348
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8c7c14166c06d4fa0467abeb642d3e
+      internalID: 1993375001509655224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete2_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 316
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3278fba9bbb1c954eb703d48d8a20345
+      internalID: -4153604209997344539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

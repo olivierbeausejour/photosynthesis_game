@@ -1,0 +1,1882 @@
+fileFormatVersion: 2
+guid: 7531da312fbf1fc45b6c190789956225
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6311050760680443933
+    second: xeonsheetsupah_0_0
+  - first:
+      213: -8274511650516257914
+    second: xeonsheetsupah_0_1
+  - first:
+      213: 538700718566423064
+    second: xeonsheetsupah_0_2
+  - first:
+      213: -1002980435286272948
+    second: xeonsheetsupah_0_3
+  - first:
+      213: -7495085093556105509
+    second: xeonsheetsupah_0_4
+  - first:
+      213: 627970850482184378
+    second: xeonsheetsupah_0_5
+  - first:
+      213: 2804898702556427933
+    second: xeonsheetsupah_0_6
+  - first:
+      213: 7712866274564225689
+    second: xeonsheetsupah_0_7
+  - first:
+      213: -4082376499383743363
+    second: xeonsheetsupah_0_8
+  - first:
+      213: -3986785812528753927
+    second: xeonsheetsupah_0_9
+  - first:
+      213: -6749169862644066072
+    second: xeonsheetsupah_0_10
+  - first:
+      213: -422254167547227782
+    second: xeonsheetsupah_0_11
+  - first:
+      213: -3004961671611745405
+    second: xeonsheetsupah_0_12
+  - first:
+      213: -4298883172520519515
+    second: xeonsheetsupah_0_13
+  - first:
+      213: 6322972990626430996
+    second: xeonsheetsupah_0_14
+  - first:
+      213: 7682672195004300388
+    second: xeonsheetsupah_0_15
+  - first:
+      213: 7360886061754297353
+    second: xeonsheetsupah_0_16
+  - first:
+      213: 177433680284110059
+    second: xeonsheetsupah_0_17
+  - first:
+      213: 8688211855659907780
+    second: xeonsheetsupah_0_18
+  - first:
+      213: -555058936060925054
+    second: xeonsheetsupah_0_19
+  - first:
+      213: 1377992470998189892
+    second: xeonsheetsupah_0_20
+  - first:
+      213: -9018221153983638163
+    second: xeonsheetsupah_0_21
+  - first:
+      213: -3786211975579261707
+    second: xeonsheetsupah_0_22
+  - first:
+      213: -3360684479599727627
+    second: xeonsheetsupah_0_23
+  - first:
+      213: -8467859792228488521
+    second: xeonsheetsupah_0_24
+  - first:
+      213: -5479337002645397299
+    second: xeonsheetsupah_0_25
+  - first:
+      213: -2117114035653714694
+    second: xeonsheetsupah_0_26
+  - first:
+      213: -8495124488916328881
+    second: xeonsheetsupah_0_27
+  - first:
+      213: -1754081899294718060
+    second: xeonsheetsupah_0_28
+  - first:
+      213: -5903411799562641068
+    second: xeonsheetsupah_0_29
+  - first:
+      213: -7371265476539324368
+    second: xeonsheetsupah_0_30
+  - first:
+      213: -3402618357732285087
+    second: xeonsheetsupah_0_31
+  - first:
+      213: 354703791216084955
+    second: xeonsheetsupah_0_32
+  - first:
+      213: 6535378040470902368
+    second: xeonsheetsupah_0_33
+  - first:
+      213: 7732604231251200974
+    second: xeonsheetsupah_0_34
+  - first:
+      213: -7830233109190009418
+    second: xeonsheetsupah_0_35
+  - first:
+      213: -8920207332227910339
+    second: xeonsheetsupah_0_36
+  - first:
+      213: -3955608804142514246
+    second: xeonsheetsupah_0_37
+  - first:
+      213: 5818573198376995457
+    second: xeonsheetsupah_0_38
+  - first:
+      213: 38709779097445284
+    second: xeonsheetsupah_0_39
+  - first:
+      213: -8232702931732222793
+    second: xeonsheetsupah_0_40
+  - first:
+      213: 3336044861442314940
+    second: xeonsheetsupah_0_41
+  - first:
+      213: -771985150748797238
+    second: xeonsheetsupah_0_42
+  - first:
+      213: 3487975414096122082
+    second: xeonsheetsupah_0_43
+  - first:
+      213: 6634876947969002900
+    second: xeonsheetsupah_0_44
+  - first:
+      213: 8166571487479050164
+    second: xeonsheetsupah_0_45
+  - first:
+      213: 451698179048936771
+    second: xeonsheetsupah_0_46
+  - first:
+      213: -1586752409690286929
+    second: xeonsheetsupah_0_47
+  - first:
+      213: 2383777013015548317
+    second: xeonsheetsupah_0_48
+  - first:
+      213: 7257260939325114453
+    second: xeonsheetsupah_0_49
+  - first:
+      213: 746341839547051013
+    second: xeonsheetsupah_0_50
+  - first:
+      213: -3515820485262283513
+    second: xeonsheetsupah_0_51
+  - first:
+      213: 5748608060916187290
+    second: xeonsheetsupah_0_52
+  - first:
+      213: 6505196371495034150
+    second: xeonsheetsupah_0_53
+  - first:
+      213: 1646530626031142612
+    second: xeonsheetsupah_0_54
+  - first:
+      213: -7589759821120995283
+    second: xeonsheetsupah_0_55
+  - first:
+      213: -8815772487019388789
+    second: xeonsheetsupah_0_56
+  - first:
+      213: -6020573605958038357
+    second: xeonsheetsupah_0_57
+  - first:
+      213: 8941672271215113161
+    second: xeonsheetsupah_0_58
+  - first:
+      213: 6980876372894033387
+    second: xeonsheetsupah_0_59
+  - first:
+      213: -693481656914823587
+    second: xeonsheetsupah_0_60
+  - first:
+      213: 120874593730154670
+    second: xeonsheetsupah_0_61
+  - first:
+      213: 2178286299160654804
+    second: xeonsheetsupah_0_62
+  - first:
+      213: 6785746365302366709
+    second: xeonsheetsupah_0_63
+  - first:
+      213: -5624977333108757571
+    second: xeonsheetsupah_0_64
+  - first:
+      213: -4519329893531723138
+    second: xeonsheetsupah_0_65
+  - first:
+      213: -2288378893600428401
+    second: xeonsheetsupah_0_66
+  - first:
+      213: -1513682450275042949
+    second: xeonsheetsupah_0_67
+  - first:
+      213: -5856712778474923921
+    second: xeonsheetsupah_0_68
+  - first:
+      213: 8880238465321121150
+    second: xeonsheetsupah_0_69
+  - first:
+      213: 1310737740597380773
+    second: xeonsheetsupah_0_70
+  - first:
+      213: -746080099483625147
+    second: xeonsheetsupah_0_71
+  - first:
+      213: 7814147566964729657
+    second: xeonsheetsupah_0_72
+  - first:
+      213: -8582715138518823074
+    second: xeonsheetsupah_0_73
+  - first:
+      213: -1930827082835157044
+    second: xeonsheetsupah_0_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 758
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888c4ca60aad5c4a94b1aed58503724
+      internalID: -6311050760680443933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 755
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8f43c58bad154aa3f960b7b8c0ba5
+      internalID: -8274511650516257914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 757
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef6b8e6ba7ec44885ae5c8a695eb7f
+      internalID: 538700718566423064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 759
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bd982a40ca6fe40b8ce0dc959589d5
+      internalID: -1002980435286272948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 672
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18952e0d64987f94f9c2c9686af1101b
+      internalID: -7495085093556105509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 672
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99e928cfab2290499acc75cf5bdac0b
+      internalID: 627970850482184378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 672
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b9e3d940b8ddf43a2085bf6a8159c1
+      internalID: 2804898702556427933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 677
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3829e1f1d19e64e48be20566b89b72fb
+      internalID: 7712866274564225689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 676
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b175d6a462898cd498382f28f716db24
+      internalID: -4082376499383743363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 681
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1187094d3255c4688f31540f5dd90a
+      internalID: -3986785812528753927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 683
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be853eea3b2c194ba6ecfb0897baad9
+      internalID: -6749169862644066072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 683
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2908197fbf0aab245ba841fde6e681a3
+      internalID: -422254167547227782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 594
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e3e227fbb4bd4bb989b5b4a86785c
+      internalID: -3004961671611745405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 593
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60576a8adc8fa234094148455633865f
+      internalID: -4298883172520519515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 593
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac05e70e520c294c874ac7a3516ab3f
+      internalID: 6322972990626430996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 593
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed3fc46da54d14bb0707ad9b550511
+      internalID: 7682672195004300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 595
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed5d75b119308d4cbaa0c436df292cf
+      internalID: 7360886061754297353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 600
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f350ee2385aa8546a08032e80ff2d62
+      internalID: 177433680284110059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 602
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29429deb59b9a44aa4d38c4a7035c8
+      internalID: 8688211855659907780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 606
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a30bfa07fd3a1f47a98a7dfa01aa20f
+      internalID: -555058936060925054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 594
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4efed5872994a44ad9b24c2a37cbec
+      internalID: 1377992470998189892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 517
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017e0a732c8c104699d3c1d2ea37d8b
+      internalID: -9018221153983638163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 518
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637b99aaef0d1ba46a20420538794189
+      internalID: -3786211975579261707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 526
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f24d28e578f27a4abe2ef5667cac284
+      internalID: -3360684479599727627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 517
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9baa64ace2e484f958632a8861a9cc
+      internalID: -8467859792228488521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 519
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f5832824a867948bf33a27a233cc3e
+      internalID: -5479337002645397299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 521
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e521ad77fdc3842ad207f07fae5099
+      internalID: -2117114035653714694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 519
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12c65d5311c5944faebc37a7aecc203
+      internalID: -8495124488916328881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 395
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdafe799cd841fe4bbbaff3b0f78be6a
+      internalID: -1754081899294718060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 399
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d99947011e29684c8b619aadacc9d00
+      internalID: -5903411799562641068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 398
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1184569ed99b147b2d346788f9e3fa
+      internalID: -7371265476539324368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 401
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b1daf6a8c768439551e35270a28bf
+      internalID: -3402618357732285087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 403
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d67a4054831f4fa711e0ebcb2fffd
+      internalID: 354703791216084955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9116327035fa9fd42841f037f93e2a91
+      internalID: 6535378040470902368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 390
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c0b92f765d6648aaf0f0ad6e8692e
+      internalID: 7732604231251200974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_35
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 403
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87d298162ceab4cb1fb4e43083c063
+      internalID: -7830233109190009418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 279
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f7112d2604d746afa7137f207e3c9
+      internalID: -8920207332227910339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 278
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df303aa12fcc34abe1aafe79f33d79
+      internalID: -3955608804142514246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 285
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8309142127c8f614cb24d2c3e62f1716
+      internalID: 5818573198376995457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 291
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c233f8cb0c360a74a9f796a513449b16
+      internalID: 38709779097445284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 293
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d047e5f1e4da8469086548a12c4f4f
+      internalID: -8232702931732222793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 286
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721eab2af7fefd84d94e0196edb1aed0
+      internalID: 3336044861442314940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_42
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 276
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b2a13b9f08b840bde5d6af3167bcc
+      internalID: -771985150748797238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 277
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77405c2f66a6c14e8ed265dd49471a6
+      internalID: 3487975414096122082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f784590199a9547b0343868413514b
+      internalID: 6634876947969002900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 184
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc0493c0213e645940db99f1255593
+      internalID: 8166571487479050164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 183
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48472f13d92d7ba409f5b9486a93cf04
+      internalID: 451698179048936771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 184
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838db59623700040a3a7fbb6075fdfd
+      internalID: -1586752409690286929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 218
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0343d8331313b4ca72be68c4245d76
+      internalID: 2383777013015548317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 218
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac733f5627e794ebb116faa374441c
+      internalID: 7257260939325114453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 218
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a02cc1838bf048b2370460a01abff
+      internalID: 746341839547051013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 218
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626da03c254d34148a98ccbddf197116
+      internalID: -3515820485262283513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_52
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 218
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5dd8260fa312145a19492b28810830
+      internalID: 5748608060916187290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 178
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4179b354f45f4e8a530efd241798f
+      internalID: 6505196371495034150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 181
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed18abde0157945bdb27905fe9dddd
+      internalID: 1646530626031142612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 100
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ff48e2170ac04c9f4eeddf81f7549
+      internalID: -7589759821120995283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 101
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee49c73a548220648861da7e591a0c43
+      internalID: -8815772487019388789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 100
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07664f3364748b43b18dab4bbc2ae8b
+      internalID: -6020573605958038357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 100
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9c632cfc151f74eb0db8fc3a64b5b5
+      internalID: 8941672271215113161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 101
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c779b5533a8234180a1285c80e5382
+      internalID: 6980876372894033387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_60
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 128
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929687333985e924c9895b9db43bf8cc
+      internalID: -693481656914823587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_61
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 130
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd21816c70047d847b9f2e3d4cdc0409
+      internalID: 120874593730154670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 131
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e1d669272dfde4a9522d6714189ff4
+      internalID: 2178286299160654804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_63
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 131
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430247c34949f5e42948a21e722ea01e
+      internalID: 6785746365302366709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_64
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 117
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe31c8f99d419d41811168b585ebfac
+      internalID: -5624977333108757571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_65
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 117
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a859a00313676e4094fb9dbceb6e934
+      internalID: -4519329893531723138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 116
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df96bfa88dbb9e84aa2c9ad6c8347605
+      internalID: -2288378893600428401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_67
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 116
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a279eb276c6490145bb8b4b9cca93019
+      internalID: -1513682450275042949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 110
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25229ce2b55fdb48821d9bcfd9cb657
+      internalID: -5856712778474923921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 112
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b928a9db8614443959af2d430a9a3b
+      internalID: 8880238465321121150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_70
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 112
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e70beaf18287a429eb99e37a5f2dbb
+      internalID: 1310737740597380773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_71
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 112
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5917f528f3f684ca4be7b1a491f89f
+      internalID: -746080099483625147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0048b60441504c4d8e514c360c11307
+      internalID: 7814147566964729657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupah_0_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ddad2ac4168a545b4f18b63447f6e8
+      internalID: -8582715138518823074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

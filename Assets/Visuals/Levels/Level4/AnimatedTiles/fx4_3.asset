@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: fx4_3
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -7884065315711388241, guid: 183c3e9ba978d5846b197314429ae47e, type: 3}
+  - {fileID: 6591972896799425656, guid: 183c3e9ba978d5846b197314429ae47e, type: 3}
+  - {fileID: -7864517635773679775, guid: 183c3e9ba978d5846b197314429ae47e, type: 3}
+  - {fileID: -3599596082341105238, guid: 183c3e9ba978d5846b197314429ae47e, type: 3}
+  - {fileID: 5014681072547175070, guid: 183c3e9ba978d5846b197314429ae47e, type: 3}
+  - {fileID: 4484534173699753287, guid: 183c3e9ba978d5846b197314429ae47e, type: 3}
+  - {fileID: -4073988683213545057, guid: 183c3e9ba978d5846b197314429ae47e, type: 3}
+  - {fileID: 6282288247033839726, guid: 183c3e9ba978d5846b197314429ae47e, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0

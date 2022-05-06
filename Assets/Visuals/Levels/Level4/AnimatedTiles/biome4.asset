@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: biome4
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 6105968663816181128, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: 8965716006962637611, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: 5438891966004085882, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: 7567588406274002899, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: -3621237037262606112, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: 1528731713524484647, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: -7004972186503069397, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: 4842352213854005237, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: -2795791610649785603, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: -6708835740716770415, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: 2269112648836289185, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: 3094043503335871884, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: -5857233131182531419, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: -6028411963531960076, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: -1533403018067291493, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  - {fileID: 6447259155835043770, guid: fcb33760eb8fc0641ad4ec6b9aa2a0d9, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0

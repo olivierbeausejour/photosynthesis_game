@@ -1,0 +1,2791 @@
+fileFormatVersion: 2
+guid: 8c86cddad639b174ca1d6c7b889de0f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2967159438259736571
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_0
+  - first:
+      213: 5922878601956303083
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_1
+  - first:
+      213: -5635187065858935079
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_2
+  - first:
+      213: -7559861060420084862
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_3
+  - first:
+      213: 7073162814072915264
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_4
+  - first:
+      213: -4408448016558773131
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_5
+  - first:
+      213: 1032876815345342209
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_6
+  - first:
+      213: 1033350766496417621
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_7
+  - first:
+      213: -3765649915455589555
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_8
+  - first:
+      213: 8944421165689334403
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_9
+  - first:
+      213: -6503825898003006051
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_10
+  - first:
+      213: 4065157457995956387
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_11
+  - first:
+      213: -6733596682464136319
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_12
+  - first:
+      213: -1009756962674018047
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_13
+  - first:
+      213: -1578047258389422878
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_14
+  - first:
+      213: -6151705735572693529
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_15
+  - first:
+      213: 770283582931691036
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_16
+  - first:
+      213: -6907322283073516745
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_17
+  - first:
+      213: -6499009867481419702
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_18
+  - first:
+      213: -6288869861789718756
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_19
+  - first:
+      213: 9089871193974338106
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_20
+  - first:
+      213: -3192864313955781337
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_21
+  - first:
+      213: 6561947199288905966
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_22
+  - first:
+      213: -2928690710312887190
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_23
+  - first:
+      213: -4058001843017400942
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_24
+  - first:
+      213: -3617142195899138501
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_25
+  - first:
+      213: -3433723291668728102
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_26
+  - first:
+      213: 6600785310750985530
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_27
+  - first:
+      213: -4529221841988523075
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_28
+  - first:
+      213: -125200573903073901
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_29
+  - first:
+      213: -6253065072571374506
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_30
+  - first:
+      213: 5284552101009906422
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_31
+  - first:
+      213: -1064531462836938826
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_32
+  - first:
+      213: 571611460472949107
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_33
+  - first:
+      213: 2100832662351455255
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_34
+  - first:
+      213: 61689012295540481
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_35
+  - first:
+      213: 2225203370817779953
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_36
+  - first:
+      213: -5974340873551895717
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_37
+  - first:
+      213: -3955684532317124280
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_38
+  - first:
+      213: 8658289911939892810
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_39
+  - first:
+      213: 3390540989055413021
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_40
+  - first:
+      213: 8175140578811730779
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_41
+  - first:
+      213: 622275989764986156
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_42
+  - first:
+      213: -1096882396059544110
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_43
+  - first:
+      213: 9104814046923196590
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_44
+  - first:
+      213: -4153579644320419972
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_45
+  - first:
+      213: 34555354491811241
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_46
+  - first:
+      213: 1876112405582494046
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_47
+  - first:
+      213: 3287472780446971908
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_48
+  - first:
+      213: -2494730799741559379
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_49
+  - first:
+      213: -72345123084360085
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_50
+  - first:
+      213: 4617829888998384140
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_51
+  - first:
+      213: 3834863030080445229
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_52
+  - first:
+      213: 8516635256902164828
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_53
+  - first:
+      213: -5166648572836596762
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_54
+  - first:
+      213: -5206905069943146281
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_55
+  - first:
+      213: 8988082020549097153
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_56
+  - first:
+      213: 7666855792972260932
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_57
+  - first:
+      213: 7299111859698622837
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_58
+  - first:
+      213: -1120474553943642971
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_59
+  - first:
+      213: -2072430560480309172
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_60
+  - first:
+      213: -8072495960321338009
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_61
+  - first:
+      213: -7397099559279890059
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_62
+  - first:
+      213: 9097141535068272566
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_63
+  - first:
+      213: -6619043657313489478
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_64
+  - first:
+      213: 5652072358721717739
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_65
+  - first:
+      213: -9039860296982785808
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_66
+  - first:
+      213: -1812676860138796658
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_67
+  - first:
+      213: -7665193511716158269
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_68
+  - first:
+      213: -4683906092026680215
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_69
+  - first:
+      213: 2489642630500117829
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_70
+  - first:
+      213: 7892772508571054424
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_71
+  - first:
+      213: -6247352057135758767
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_72
+  - first:
+      213: 6350725992686693578
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_73
+  - first:
+      213: 8508189646706266670
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_74
+  - first:
+      213: 4789772225832146021
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_75
+  - first:
+      213: -4672745600999695058
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_76
+  - first:
+      213: 8179018354722169803
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_77
+  - first:
+      213: 6795550278862207612
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_78
+  - first:
+      213: -3551285159337253789
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_79
+  - first:
+      213: -7189012366610143381
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_80
+  - first:
+      213: 5726865898527118157
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_81
+  - first:
+      213: 2812937221797940564
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_82
+  - first:
+      213: -6842811291981854076
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_83
+  - first:
+      213: -2371184128623040735
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_84
+  - first:
+      213: 1657236543058050181
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_85
+  - first:
+      213: -4254524233516843702
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_86
+  - first:
+      213: 6491008590434109407
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_87
+  - first:
+      213: 5149919682921727340
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_88
+  - first:
+      213: 4791399720442636364
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_89
+  - first:
+      213: -3756931197170411006
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_90
+  - first:
+      213: -7035534593375172015
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_91
+  - first:
+      213: -7763217768365034552
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_92
+  - first:
+      213: -3505562193602791100
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_93
+  - first:
+      213: -1434866342191905586
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_94
+  - first:
+      213: -8737978254117383793
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_95
+  - first:
+      213: 7438088906798718627
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_96
+  - first:
+      213: 4168836738100652084
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_97
+  - first:
+      213: -9222519721085247596
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_98
+  - first:
+      213: 6759419987969543223
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_99
+  - first:
+      213: -4720128755650861579
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_100
+  - first:
+      213: 5107778575069948817
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_101
+  - first:
+      213: 5454634869322785998
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_102
+  - first:
+      213: -773397922494173192
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_103
+  - first:
+      213: -7771903653506127552
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_104
+  - first:
+      213: 4887241639295060887
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_105
+  - first:
+      213: -8142586846624541334
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_106
+  - first:
+      213: 9000856143912495138
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_107
+  - first:
+      213: 7504178457677484060
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_108
+  - first:
+      213: 1479828292983830351
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_109
+  - first:
+      213: 275497550661801747
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_110
+  - first:
+      213: 940887042284241408
+    second: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_111
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5a712b53d49c1449b9d7790f47ac49
+      internalID: 2967159438259736571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21f4f9f7b5a99341885008b4f140905
+      internalID: 5922878601956303083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea6f6c8146e7747b9adf63eb235b0a
+      internalID: -5635187065858935079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ce0a3abf99f34d8f5905217370447
+      internalID: -7559861060420084862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc31fe908f472894dbdfdacc42759707
+      internalID: 7073162814072915264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f955fbeb42e336e40a91db898917c6bc
+      internalID: -4408448016558773131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c5a5e9214e105449d555828b848ef2
+      internalID: 1032876815345342209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9a34f9eaf6e9a4593b965b7d603547
+      internalID: 1033350766496417621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4990685c37495bd40ac4b03cbb59c7ed
+      internalID: -3765649915455589555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e91352ead97c44b93629579ab36030
+      internalID: 8944421165689334403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05fac64443a98b40bf8cf6182fabc09
+      internalID: -6503825898003006051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9314731feb7c643843e6636e58cafa
+      internalID: 4065157457995956387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45a9933bda99e4c8f101fc1f3126a2
+      internalID: -6733596682464136319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c088126f6300a648ab3d49c71d51ab5
+      internalID: -1009756962674018047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c392ba5934e6d41987aa3b85082850
+      internalID: -1578047258389422878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709075023e551e14e8fc20ca83aa29bd
+      internalID: -6151705735572693529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4414649f68e8204985ebcee895d694a
+      internalID: 770283582931691036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b48cf8f6524714aafca506c890156d
+      internalID: -6907322283073516745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c5d083710a4db44beaa944a7bf19bc
+      internalID: -6499009867481419702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f475d5c24ad574da36d468b3349729
+      internalID: -6288869861789718756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948efa9cb1bc4d4dbd3e2a4f01385f5
+      internalID: 9089871193974338106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfe6fc1d9a850646b757d613307a096
+      internalID: -3192864313955781337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c650d0c050690b489173850f78e7adc
+      internalID: 6561947199288905966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16f7f7074606364abf9f4e5c0866d60
+      internalID: -2928690710312887190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c2d7a9997be848a645e7aa837334f
+      internalID: -4058001843017400942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fb442c0ed4e9b44b68d767b5be57a8
+      internalID: -3617142195899138501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb478597a9185a4691fe50a4e3a8561
+      internalID: -3433723291668728102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2b02847289e346922674d9be4903f
+      internalID: 6600785310750985530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9b20a962144849a96468a876df55e
+      internalID: -4529221841988523075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7301c4e80015d04449ad2238e1e87ad3
+      internalID: -125200573903073901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb4a222659e0ea468a2e633bde5d7bf
+      internalID: -6253065072571374506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c076f4f2bae62f438bba8bcdb7e1a23
+      internalID: 5284552101009906422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0146f888453514a8d9177d28a41725
+      internalID: -1064531462836938826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5410ecfaf7f8bb498601078acec5e72
+      internalID: 571611460472949107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd639f59385c9946aff04fdb79b2c48
+      internalID: 2100832662351455255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e132dc76789dd3845847e71dcccd93d3
+      internalID: 61689012295540481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d801acbfe81d874faff6b1a21282be0
+      internalID: 2225203370817779953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0d23c6142c504eb8be0a50b2447ac
+      internalID: -5974340873551895717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23aeffdbb26ede4daab36d5d71016be
+      internalID: -3955684532317124280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513e08127b50e0548a04618c7cb38d4a
+      internalID: 8658289911939892810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5fd40c71249384aa788a97d1f757fc
+      internalID: 3390540989055413021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a26b26d2d54a34a844d0c1632a9c5f
+      internalID: 8175140578811730779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d48b9674ead1c34fb59b4ae8f9f5c8d
+      internalID: 622275989764986156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2608f160ade42244aa0e0214f11fc78
+      internalID: -1096882396059544110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8a9597fd6da36489b3ee03169427f4
+      internalID: 9104814046923196590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c9e815f1dcae845bb67c1a373166c8
+      internalID: -4153579644320419972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b722b04a354a38d46b8662e7ef814e0e
+      internalID: 34555354491811241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af866193b06014da1902476933d937
+      internalID: 1876112405582494046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97080f83730a6624b920f7339f7a886f
+      internalID: 3287472780446971908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57770852a96d29745984e5903aeeedb5
+      internalID: -2494730799741559379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12252eb75e293449884314f20035796
+      internalID: -72345123084360085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec3de6c28e4ffd4cbd20ed0427670b7
+      internalID: 4617829888998384140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74dbbf058e98284595e551c78436989
+      internalID: 3834863030080445229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adadf088b3e04794db45814db09b0480
+      internalID: 8516635256902164828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3104268736f49841bf4a854c3b184d0
+      internalID: -5166648572836596762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292fd04c3136ff142accde67fe8886d2
+      internalID: -5206905069943146281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a1a8e8f02f8354ca14660ce830e133
+      internalID: 8988082020549097153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce4dcb7ecdfce48a4755d166670923
+      internalID: 7666855792972260932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d291c69d82cd414395d1073d1a18245
+      internalID: 7299111859698622837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc0feb2f10b3ab48aaf2273652113dc
+      internalID: -1120474553943642971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08d9a30587d8b141b804751beb7ed5d
+      internalID: -2072430560480309172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ea0fddc702f6b4fa9f7394bb584d14
+      internalID: -8072495960321338009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f834dbbcb3c8e341a641b3be1f27929
+      internalID: -7397099559279890059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0051f0641a90374c9faa4a4e16fbcff
+      internalID: 9097141535068272566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7344d8875550e814895ee6a5f93418c2
+      internalID: -6619043657313489478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7c8de0fa4fb2f4d994ddeed320e3bb
+      internalID: 5652072358721717739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9988ddbfbae732f4f984f30e6c803997
+      internalID: -9039860296982785808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d2d4548bc7d641bc423fa7867aa51
+      internalID: -1812676860138796658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63025184d55356644a7c3ee343840447
+      internalID: -7665193511716158269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bdc368f849246409ad765ad7f84c96
+      internalID: -4683906092026680215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf48cb03e4144d42b5171f103e29756
+      internalID: 2489642630500117829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3607e1f1a0cf347b9b9a20831ba772
+      internalID: 7892772508571054424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a4fbddc51004d48879f2b319fa6d76
+      internalID: -6247352057135758767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdc640077485ca4bad5dfe8e1f0a013
+      internalID: 6350725992686693578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722dd927f0f77ee4e8144a3ea7b673df
+      internalID: 8508189646706266670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9fb3df79b7ae4c9f6ddaa239653ff
+      internalID: 4789772225832146021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85b4339b41995d459d8b1080be2360a
+      internalID: -4672745600999695058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee0a51641d3265479b70657ce32fc89
+      internalID: 8179018354722169803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afea6167a97faa4c875fd119c7f0b3e
+      internalID: 6795550278862207612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d04604fa865c4ea86ea5e6e45a6c3
+      internalID: -3551285159337253789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66cccd524cbfa048af19b3986802f50
+      internalID: -7189012366610143381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78fd0a097207e941a70f9cfd286e13a
+      internalID: 5726865898527118157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81b73f06afcebe44b20606d73f41752
+      internalID: 2812937221797940564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea8ddd584962f4b9743dfd0e76e9e0
+      internalID: -6842811291981854076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3aaeb33c26db4a8476bf23f50be5f
+      internalID: -2371184128623040735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a4f7b61bd4fb44093492aedf49ffd5
+      internalID: 1657236543058050181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1546bd1a4db550649b54b32fa023e3ab
+      internalID: -4254524233516843702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0500b850795124c9839c994c2ee57a
+      internalID: 6491008590434109407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33606736c4898264b897fea1fa97b9fd
+      internalID: 5149919682921727340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ca52f27f65d94cbb322ba320fcb29
+      internalID: 4791399720442636364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dbeb61fb54a424fb34f362f2c944f6
+      internalID: -3756931197170411006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de585b6de66575468a64c2fea3568a3
+      internalID: -7035534593375172015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbfa393f952bef45b22839d7f70546f
+      internalID: -7763217768365034552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922ddda76c88774ea34dada8fdd6cd6
+      internalID: -3505562193602791100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948508ced6f6770478b8dfed272adfb7
+      internalID: -1434866342191905586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece6f662170eb6644a8942e5fcfdc74d
+      internalID: -8737978254117383793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bddf573e10b65419b4305c3dfa7957
+      internalID: 7438088906798718627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e57d0a351c8c3947823aa187e21d451
+      internalID: 4168836738100652084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e1c9daf725ff4eaac8e671036f7a8
+      internalID: -9222519721085247596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d71a1526c84740820677df0d27b4e
+      internalID: 6759419987969543223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe9d2aca4da5a14e8497d32c7cd3018
+      internalID: -4720128755650861579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e7a52d826eed04dbb4145804012da1
+      internalID: 5107778575069948817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af34238154829647a83d373f4265a1e
+      internalID: 5454634869322785998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2271811859f65b541a6654596d1cf3c7
+      internalID: -773397922494173192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578fa700b95b76409a2892e724cf387
+      internalID: -7771903653506127552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695ca201abb9f5d4b97191d821ab23cf
+      internalID: 4887241639295060887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78775c47fcc0f98488d3a570ee64501d
+      internalID: -8142586846624541334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ab1a531f50db94aa294e51dd09137e
+      internalID: 9000856143912495138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f794694f99cd7d41a3e220ec49a5f70
+      internalID: 7504178457677484060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e88364f4a61c348af4116fe244c20f
+      internalID: 1479828292983830351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20afa6b06fe1dd24284db3155bed97cb
+      internalID: 275497550661801747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_rogue-noir_1.1_made-of-flesh-and-metal_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b37341b3d0ddd14f8417f6e912b95ba
+      internalID: 940887042284241408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - Checkpoint
+  - PhysicalCollider
+  - SensorCollider
+  - Boss
+  - LevelCompleteController
+  - LevelFinishController
+  - AudioManager
+  - MainMenu
+  - PopupMessage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - World
+  - Hookable
+  - Hazard
+  - Player
+  - MovingPlatforms
+  - Sensor
+  - Destroyable
+  - TriggerBox
+  - NoCollideHazard
+  - HookableEntity
+  - Enemy
+  - ArmorPiece
+  - PostProcessing
+  - Boss
+  - BossBodyPart
+  - BossRoomWall
+  - KillTriggerBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 232210317
+    locked: 0
+  - name: Foreground_Back
+    uniqueID: 2385677013
+    locked: 0
+  - name: Actors
+    uniqueID: 2480700211
+    locked: 0
+  - name: Foreground_Front
+    uniqueID: 3650701271
+    locked: 0
